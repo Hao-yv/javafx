@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="304.0" prefWidth="733.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="src.com.JavaFx.Controller.ScoreQuery">
+   <children>
+      <TableView layoutX="3.0" layoutY="72.0" prefHeight="224.0" prefWidth="727.0">
+        <columns>
+          <TableColumn prefWidth="75.0" text="数据结构" />
+          <TableColumn prefWidth="80.3333740234375" text="计算机网络" />
+            <TableColumn prefWidth="75.6666259765625" text="操作系统" />
+            <TableColumn prefWidth="83.0" text="算法设计" />
+            <TableColumn prefWidth="75.0" text="Java" />
+            <TableColumn prefWidth="70.3333740234375" text="C语言" />
+            <TableColumn prefWidth="85.3333740234375" text="总分" />
+            <TableColumn prefWidth="91.6666259765625" text="排名" />
+            <TableColumn prefWidth="113.3333740234375" text="考试周次" />
+        </columns>
+      </TableView>
+      <Button layoutX="14.0" layoutY="38.0" mnemonicParsing="false" text="成绩校验申请" />
+      <Button layoutX="118.0" layoutY="38.0" mnemonicParsing="false" prefHeight="23.0" prefWidth="79.0" text="差错报告" />
+   </children>
+</AnchorPane>

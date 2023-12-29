@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/JavaFx/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/JavaFx/lib/c3p0-0.9.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/JavaFx/lib/c3p0-oracle-thin-extras-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/JavaFx/lib/druid-1.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/JavaFx/lib/mysql-connector-java-5.1.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16fba236-25a4-4029-b84a-f15c52b66a1b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/c3p0-0.9.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/c3p0-oracle-thin-extras-0.9.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-dbutils-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/druid-1.1.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/AddStuview.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Teacherview.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/UpdataStuview.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/regest.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/selete_singe_Stuview.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/studentsmain.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/POLO/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/POLO/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/POLO/login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/Utils/Datatime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/Utils/JDBCUtilsByDruid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/dao/BasicesDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/dao/StoreDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/dao/StudentsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/dao/TeachersDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DAO/dao/loginDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaFx/APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaFx/Controller/AddStuview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaFx/Controller/Logincontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaFx/Controller/Regest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaFx/Controller/StaffController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaFx/Controller/UpdataStuview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaFx/Controller/registerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaFx/Controller/slsStuCtr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaFx/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/druid.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.9.6" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MigrationScriptOptions">
+    <option name="ignoreImplicitObjects" value="true" />
+    <option name="ignoreSourceCode" value="false" />
+  </component>
+  <component name="ProjectId" id="2ZkH0AfoUIorDVrbKexBnKFVjkW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/java/project/untitled",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\project\javafx" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="APP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.JavaFx.APP" />
+      <module name="javafx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.JavaFx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.APP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="16fba236-25a4-4029-b84a-f15c52b66a1b" name="更改" comment="" />
+      <created>1702958933699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702958933699</updated>
+      <workItem from="1702958935627" duration="2770000" />
+      <workItem from="1702961744729" duration="7742000" />
+      <workItem from="1703044934828" duration="644000" />
+      <workItem from="1703056065566" duration="32000" />
+      <workItem from="1703066002440" duration="7023000" />
+      <workItem from="1703074079049" duration="2027000" />
+      <workItem from="1703076515639" duration="8891000" />
+      <workItem from="1703581536421" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/JavaFx/Controller/Logincontroller.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

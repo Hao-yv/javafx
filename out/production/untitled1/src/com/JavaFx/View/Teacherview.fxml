@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="src.com.JavaFx.Controller.TeacherController">
+    <children>
+        <Button layoutX="522.0" layoutY="14.0" mnemonicParsing="false" onAction="#outlogin" text="退出登录" />
+        <Button layoutX="129.0" layoutY="56.0" mnemonicParsing="false" text="查找学生" onAction="#seletestu"/>
+      <TextField fx:id="getname" layoutX="14.0" layoutY="56.0" prefHeight="23.0" prefWidth="103.0" />
+      <Button layoutX="336.0" layoutY="100.0" mnemonicParsing="false" text="查看授课信息" />
+      <Button layoutX="444.0" layoutY="100.0" mnemonicParsing="false" text="成绩统计图" onAction="#Chartscores"/>
+      <Button layoutX="53.0" layoutY="100.0" mnemonicParsing="false" onAction="#insertstu" text="添加学生" />
+      <TableView fx:id="tabelview" layoutX="30.0" layoutY="187.0" prefHeight="189.0" prefWidth="541.0">
+        <columns>
+          <TableColumn fx:id="name" prefWidth="69.0" text="姓名" />
+          <TableColumn fx:id="sex" prefWidth="81.0" text="性别" />
+            <TableColumn fx:id="age" prefWidth="80.3333740234375" text="年龄" />
+            <TableColumn fx:id="scid" prefWidth="69.6666259765625" text="学号" />
+            <TableColumn fx:id="prof" prefWidth="75.0" text="专业" />
+            <TableColumn fx:id="endata" prefWidth="75.0" text="入学年份" />
+            <TableColumn fx:id="outdata" prefWidth="88.3333740234375" text="毕业年份" />
+        </columns>
+      </TableView>
+      <Button layoutX="144.0" layoutY="100.0" mnemonicParsing="false" onAction="#deletestu" prefHeight="23.0" prefWidth="64.0" text="删除" />
+      <Button layoutX="522.0" layoutY="56.0" mnemonicParsing="false" onAction="#refresh" text="界面刷新" />
+      <Button layoutX="237.0" layoutY="100.0" mnemonicParsing="false" onAction="#updatestu" text="修改信息" />
+    </children>
+</AnchorPane>
